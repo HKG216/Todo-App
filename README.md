@@ -1,2 +1,2 @@
 # Todo-App
-Todo Application with JavaScript.
+Todo Application Developed JavaScript working with Dom.
